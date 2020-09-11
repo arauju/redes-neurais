@@ -1,0 +1,10 @@
+1. Na primeira troca, a funçao deixa de ser linear e se aproxima da outra. Depois, é possível perceber que o erro diminui, apenas trocando as demais funções.
+2. O erro diminui
+3. O erro diminui
+4. A execução leva mais tempo
+5. As saídas ficam menos dispersas, de acordo com a função utilizada.
+6. A execução leva mais tempo, porém as saídas demoram mais a convergir.
+7. O erro aumenta
+8. As saídas ficaram menos dispersas.
+
+7.1 e-08
